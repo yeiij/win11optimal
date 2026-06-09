@@ -1,7 +1,5 @@
 # Win11Optimal
 
----
-
 ## MPO
 MPO / Multiplane Overlay is a Windows graphics feature that lets the GPU compose multiple visual layers directly, improving efficiency but sometimes causing flickering, black screens, or stuttering.
 
